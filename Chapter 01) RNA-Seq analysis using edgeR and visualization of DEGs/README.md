@@ -1,4 +1,4 @@
-# Chapter 01) Analyzing with edgeR and visualization of DEGs
+# Chapter 01) RNA-Seq analysis using edgeR and visualization of DEGs
 
 In this chapter, I will show how to analyze RNA-Seq raw data which was simply preprocessed using dplyr packages.
 
